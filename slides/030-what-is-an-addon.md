@@ -9,4 +9,10 @@ notes: |
 
 # what is an addon
 
-This is a slide!
+![ember paper](/ember-paper.png) <!-- .element width="300" class="fragment" style="position: absolute; left: 190px;" -->
+
+![ember polaris](/ember-polaris.png) <!-- .element width="300" class="fragment" style="position: absolute; right: 190px;" -->
+
+![ember styleguide](/ember-styleguide.png) <!-- .element width="300" class="fragment" -->
+
+![ember polaris](/ember-truth-helpers.png) <!-- .element width="500" class="fragment" style="position: absolute; left: 190px; bottom: 160px;" -->
