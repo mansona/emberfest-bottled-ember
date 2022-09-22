@@ -1,3 +1,10 @@
+---
+notes: |
+  And that’s it folks! I’ll be putting out a rival V2 blueprint that y’all can try out and let me know what you think and if you’d use it. if anyone is interested in how this works from a deeper perspective just let me know either in person or on twitter and I might do a blog series about it going into more detail.
+
+  see you all later and happy coding! 
+---
+
 <!-- .slide: class="closing" data-background-image="/split-background.png" -->
 
 # Thank you all!
