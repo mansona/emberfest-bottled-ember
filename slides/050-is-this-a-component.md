@@ -5,6 +5,6 @@ notes: |
   on the build time side of things, because of the way that a classic addon can pretty much hook into any part of the ember build process it’s not hard to imagine a situation where a rogue addon can be adding a significant build penalty. I know I’ve writtend addons that accidentially make thousands of requests to the localhost server while you’re developing effectively ddosing yourself. 
 ---
 
-# is this a component
+# So many components 🙈
 
-template using Ember paper components
+![all components](/all-components.png)

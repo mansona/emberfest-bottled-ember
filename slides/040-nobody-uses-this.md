@@ -7,4 +7,4 @@ notes: |
 
 # Other addon types
 
-This is a slide!
+![](/included-commands.png)

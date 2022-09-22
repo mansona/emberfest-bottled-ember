@@ -5,6 +5,6 @@ notes: |
   Anyway let’s get back to what a V2 addon can do, and stop talking about what it can’t.
 ---
 
-# one exception
+# One exception
 
-This is a slide!
+![c'est interdit](/cest-interdit.png) <!-- .element class="fragment" -->

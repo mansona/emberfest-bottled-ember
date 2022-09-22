@@ -1,0 +1,9 @@
+emberfest-fancy-button-addon
+├── _app_
+│   └── components
+│       └── fancy-button.js
+├── components
+│   └── fancy-button.js
+└── index.js
+
+3 directories, 3 files
