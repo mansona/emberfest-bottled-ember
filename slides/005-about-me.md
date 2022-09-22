@@ -1,0 +1,14 @@
+---
+notes: |
+  My name is Chris Manson, I have 2 dogs, 2 kids, and somehow find time to keep doing open source work. One of they ways that I find that time is that I work for an awesome company that gives me 20% to work on any community projects… Mainmatter. If that’s a surprise for anyone that knows me, no I haven’t changed jobs recently, instead it’s my job that’s changed names. What used to be called simplabs is now called Mainmatter and I hopefully have updated all my socials to reflect that but let me know if you spot anything that I haven’t.
+
+  Speeking of socials, you can tweet me at real_ate at any time about what I’m talking about today. I’m pretty passionate about this stuff so I’ll likely respond! Now that we have introductions out of the way, let’s see what I’m actually talking about today. 
+---
+## Slide Notes
+
+Each slide can have notes so you can open notes view now and take a look.
+
+Each OpenSlide template might have different ways to open the notes view but maybe try:
+
+- hitting <kbd>?</kbd> to see keyboard shortcuts
+- or just hitting <kbd>s</kbd> to see if that opens the notes
