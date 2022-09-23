@@ -1,8 +1,14 @@
 ---
 notes: |
-  so here we’re starting the ember app with serve and that’s all we need to do. When you run this I currently have it outputting a status of each of the steps that it’s doing. we can probably turn this off eventually. Also I have a plan to make this much quicker but we’ve already seen that it took me quite a while to get it to work this far!
+  so here we’re starting the ember app with serve and that’s all we need to do. I've added a custom output path here though because we need to leave dist in place because that's where our addon's npm package will get compiled to
+  
+  When you run this I currently have it outputting a status of each of the steps that it’s doing
 ---
 
-# npm start
+# npm start script
 
-This is a slide!
+```json
+"scripts": {
+  "start:app": "bottled-ember serve --output-path=bottled-dist"
+}
+```

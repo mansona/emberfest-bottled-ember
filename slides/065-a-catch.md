@@ -4,9 +4,9 @@ notes: |
 
   SLIDE
 
-  there is nothing in here! 
+  there is nothing in here! ok so this is a little bit of a facecious example
 ---
 
-# a catch
+# A catch
 
-tree of the dist folder
+![where is everyone](/npm-output-files.png)

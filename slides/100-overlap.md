@@ -5,6 +5,6 @@ notes: |
   that also means that we can create ourselves an acceptance test in the place that you might expect and we could run that too. It’s funny because this even feels a bit more convenient than being in a “real” ember app because you just don’t need to define any of the test boiler plate if you don’t need it to differ from what’s provided in the default template. 
 ---
 
-# overlap
+# It works 🎉
 
-This is a slide!
+![working app](/working-app.png)

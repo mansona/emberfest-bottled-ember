@@ -7,6 +7,6 @@ notes: |
   Here is a screenshot of the file structure for my blog before saturday. 
 ---
 
-# one more thing
+# One more thing...
 
-This is a slide!
+![](/release-tweet.png) <!-- .element class="fragment" -->

@@ -1,0 +1,29 @@
+emberfest-fancy-button-addon
+├── CONTRIBUTING.md
+├── LICENSE.md
+├── README.md
+├── addon-main.js
+├── babel.config.json
+├── config
+│   ├── ember-cli-update.json
+│   ├── environment.js
+│   └── optional-features.json
+├── docs
+│   ├── components
+│   │   ├── button.md
+│   │   ├── link-to.md
+│   │   └── thingy-button.md
+│   ├── concepts
+│   │   ├── auto-execution.md
+│   │   └── colours.md
+│   └── index.md
+├── package-internal.json
+├── package-lock.json
+├── package.json
+├── rollup.config.js
+└── src
+    ├── components
+    │   └── fancy-button.hbs
+    └── index.js
+
+6 directories, 20 files

@@ -10,6 +10,6 @@ notes: |
 
 ---
 
-# The dreaded monorepo 😱
+# The structure
 
-![to far](/monorepo-source-files.png)
+![enhance](/monorepo-visual.png)

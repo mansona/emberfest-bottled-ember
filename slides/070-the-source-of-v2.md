@@ -5,6 +5,6 @@ notes: |
   this is why the current draft or proposed blueprint doesn’t look like this folder strcutre. I’ve just simplified it to be exactly what you need to deploy your npm package. no the currently proposed blueprint look smore like this
 ---
 
-# the source of v2
+# The true structure of v2
 
-tree of the source of a v2 addon
+![a bit better](/simple-source-files.png)

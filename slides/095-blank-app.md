@@ -9,4 +9,4 @@ notes: |
 
 # blank app
 
-This is a slide!
+![blank app](/blank-app.png)

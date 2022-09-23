@@ -1,0 +1,43 @@
+chris.manson.ie
+├── README.md
+├── author
+│   └── chris.md
+├── config.js
+├── content
+│   ├── 2015-resolutions.md
+│   ├── a-first-date-with-todoist.md
+│   ├── broccoli-starting-the-build-and-eating-your-greens.md
+│   ├── ember-2019-sell-what-we-have-and-fix-papercuts.md
+│   ├── if-i-have-learned-one-thing-from-ember-in-the-last-4-years.md
+│   ├── it's-all-gravy.md
+│   ├── the-right-way-to-build-the-ember-guides.md
+│   └── the-true-power-of-json:api-have-someone-else-do-it.md
+├── package-lock.json
+├── package.json
+├── page
+├── public
+│   ├── _redirects
+│   ├── images
+│   │   ├── 101.jpg
+│   │   ├── BalintErdi-DataLoadingPatterns.jpg
+│   │   ├── Screen-Shot-2015-01-02-at-08-28-37.png
+│   │   ├── Wfc_pyrotechnic_display-1.jpg
+│   │   ├── blog-cover.jpg
+│   │   ├── chris.jpg
+│   │   ├── denise-jans-683766-unsplash.jpg
+│   │   ├── fish.jpg
+│   │   ├── giammarco-boscaro-380903-unsplash.jpg
+│   │   ├── katherine-mccormack-42649-unsplash.jpg
+│   │   ├── natalia-shiel-TBV-H2KZ3U8-unsplash.jpg
+│   │   └── remi-muller-326005-unsplash.jpg
+│   └── robots.txt
+└── tag
+    ├── authmaker.md
+    ├── broccoli.md
+    ├── ember.md
+    ├── guides-app.md
+    ├── new.md
+    ├── productivity.md
+    └── resolutions.md
+
+6 directories, 34 files
