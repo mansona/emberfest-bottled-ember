@@ -9,4 +9,4 @@ notes: |
 
 # A catch
 
-![where is everyone](/npm-output-files.png)
+![where is everyone](/npm-output-files.png) <!-- .element class="fragment" -->

@@ -1,8 +1,8 @@
 ---
 notes: |
-  and here it is now
+  here is a screenshot of my blog that I deployed on saturday using empress-blog and bottled ember
 
-  As you can see that is a lot better! essentially the only files that we have left are the markdown files that represent real actual content. there is one thing about this setup I don’t like, because this is an empress host app we don’t need to worry about things being in our dependencies blok of our package json. but for some reason I couldn’t get ember-cli to pick those up as addon dependencies if I put them in the package.json but I’m sure I’ll be able to trick it eventually
+  As you can see it's so clean! essentially the only files that we have left are the markdown files that represent real actual content. There are still a few things to do to make this a tiny bit better but I'm very happy with it. There is a big psycological difference between having a little bit of a host ember app hanging around and having *nothing*
 ---
 
 # So clean
