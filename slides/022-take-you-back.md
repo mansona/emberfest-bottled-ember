@@ -5,4 +5,4 @@ notes: |
 
 # Let me take you back...
 
-<video data-autoplay height="400" src="/take-you-back.mp4"></video>
+<video data-autoplay muted height="400" src="/take-you-back.mp4"></video>
